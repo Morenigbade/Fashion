@@ -1,0 +1,19 @@
+body{
+   background-repeat: no-repeat ;
+   width: 500px;
+    /* background-image: url(images/InShot_20231226_181600991.jpg); */
+}
+.pics img{
+    width: 500px;
+    border-radius: 71px;
+    
+}
+.pics{
+    position: relative;
+}
+.words{
+    position: absolute;
+    /* color: white; */
+    top: 150px;
+    left: 20px;
+}
